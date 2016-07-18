@@ -1,5 +1,6 @@
 
 #### Run project on awesome codenvy cloud : [![Contribute](https://codenvy.com/factory/resources/codenvy-contribute.svg)](https://codenvy.com/f?id=u7yfuqpgavzh2m2u)
+#### Project build status : [![Build Status](https://travis-ci.org/EasyLearnJava/Servlets-HashMap-Login-maven.svg?branch=master)](https://travis-ci.org/EasyLearnJava/Servlets-HashMap-Login-maven/)
 
 Steps to follow to run the program on awesome codenvy cloud platform
 
