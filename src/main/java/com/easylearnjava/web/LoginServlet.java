@@ -14,7 +14,7 @@ import com.easylearnjava.util.Constants;
 
 /**
  * 
- * @author rnr 
+ * @author rnr.
  *
  *         LoginServlet class inherits all the features of a servlet by extending
  *         HttpServlet. By default the doGet method will be called by the 
